@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://storage.googleapis.com/komerce/rajaongkir/RO-by-Komerce.svg" alt="RajaOngkir by Komerce Logo" width="300">
+  <img src="https://storage.googleapis.com/komerce/rajaongkir/RO-by-Komerce.svg" alt="RajaOngkir by Komerce Logo" width="100">
   <br><br>
 </div>
 
@@ -18,7 +18,6 @@
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License"></a>
   <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python 3.10+"></a>
-  <a href="https://rajaongkir.komerce.id"><img src="https://img.shields.io/badge/API-RajaOngkir_Komerce-orange.svg" alt="RajaOngkir API"></a>
   <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-Compatible-purple.svg" alt="MCP Compatible"></a>
 </p>
 
@@ -350,6 +349,19 @@ Refer to your client's documentation for specific integration steps.
     </tr>
   </tbody>
 </table>
+
+---
+
+## Credits
+
+<p>
+  This project uses the following services and technologies:
+</p>
+
+<ul>
+  <li><a href="https://rajaongkir.com">RajaOngkir</a> - Indonesian shipping cost API provider</li>
+  <li><a href="https://modelcontextprotocol.io">Model Context Protocol</a> - MCP specification by Anthropic</li>
+</ul>
 
 ---
 
